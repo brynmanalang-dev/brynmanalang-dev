@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a learning HTML and CSS developer in hopes in becoming a full stack developer 😎
+I'm a Front End Developer learning Java Script in hopes in becoming a full stack developer 😎
 
 
 # 💻 Tech Stack:
